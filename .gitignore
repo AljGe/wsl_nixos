@@ -1,0 +1,7 @@
+hardware-configuration.nix
+*.swp
+*~
+\#*\#
+.#*
+# Explicitly track flake.lock
+!flake.lock
